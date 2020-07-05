@@ -1,0 +1,71 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+background: url(../image/e.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;}
+	
+   
+.container{width:1140px;
+    margin: 10% auto;
+    }	
+.login-form{
+    width: 625px;
+    background: #3 ce4e47;
+    background: #4169e185;
+    margin: 0 600px;
+
+}
+.login-form img{
+    display: block;
+    width: 150px;
+    height: 150px;
+    margin: 0px 10px;
+}
+.login-form h1{
+    color: white;
+    text-align: left;
+    font-size: 30px;
+    text-transform: uppercase;
+    margin: 0px 0px 0px 10px;
+	}
+	.form-control{
+	padding: 0 10px;
+    width: 560px;
+    height: 30px;
+    margin-left: 10px;
+	margin-bottom:10px;
+	}
+	
+.regi{
+float:left;
+color:white;
+float: left;
+margin-top: -30px;
+margin-left: 10px;
+text-transform:upercase;
+color: white;
+
+}
+.regi a{
+	color:white;
+}
+.reset{
+	float:right;
+	color:white;    
+    margin-top: -30px;
+    margin-right: 30px;
+	text-transform:upercase;
+} 
+.reset a{
+	color:white;
+}	
+.btn{
+    margin: 0px auto;
+    display: block;
+    background: #1d7680;
+    padding: 8px 16px;
+    color: white;}
+	

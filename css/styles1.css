@@ -1,0 +1,58 @@
+*{
+margin:0px;
+padding:0px;
+}
+body{
+	background:url(../image/e.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+}
+.container{
+	width: 1140px;
+    margin:10% auto;
+    
+   
+
+} 
+.headline{
+	color:white;
+	margin-bottom:10px;
+	text-align:center;
+} 
+.form-control{
+	width:50%;
+	padding:05px 10px;
+	color:green;
+
+	margin:0 130px 10px;
+	
+} 
+.Gender{
+	color:white;
+	
+	display:inline-block;
+
+	margin:0 130px 10px;
+} 
+.page{width: 625px;
+    background: #3 ce4e47;
+    background: #4169e185;
+    margin: 0 300px;
+
+}
+.login{
+	text-align:left;
+	color:white;
+} 
+.login a{
+	color:white;
+}
+.reset{
+	text-align:right;
+	margin-top:-25px;
+	margin-right:10px;
+	color:white;
+} 
+.reset a{
+	color:white;
+}
